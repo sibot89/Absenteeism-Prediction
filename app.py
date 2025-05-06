@@ -18,8 +18,8 @@ def Input_Output():
     result = ""
     if st.button("Click here to Predict"):
         result = model.predicted_outputs()
-        st.snow()
-        # st.balloons()     
+        # st.snow()
+        st.balloons()     
     
     st.success('The output is as follows: ')
     st.write(result)

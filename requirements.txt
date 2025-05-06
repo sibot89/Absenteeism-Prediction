@@ -1,0 +1,10 @@
+backports.tarfile==1.2.0
+importlib-metadata==8.0.0
+jaraco.collections==5.1.0
+pip-chill==1.0.3
+platformdirs==4.2.2
+pyfiglet==1.0.2
+scikit-learn==1.6.1
+streamlit==1.45.0
+termcolor2==0.0.3
+tomli==2.0.1

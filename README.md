@@ -10,3 +10,5 @@ I use Logistic Regression implemented by SciKit-Learn for building the main mode
 Then I created absenteeism_module that uses 'model' and 'scaler' for making predictions. You can also see the using of this module in 'Integration.ipynb'.
 
 In app.py I use streamlit to create a simple web app that uses 'Absenteeism_new_data.csv' for making predictions. In URL file there is also an url that you can see the app globally in share.streamlit.io 
+The URL:
+https://absenteeism-prediction-simabaynaqi.streamlit.app/
